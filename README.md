@@ -1,6 +1,6 @@
 # DONATE
 
-Mau Donate? Pkae Nomor Dibawah ini!
+Mau Donate? Pakai Nomor Dibawah ini!
 
 # Telkomsel
 ```
