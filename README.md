@@ -19,4 +19,4 @@ Nomor 2: 08121761629
 ```
 
 # Saweria
-[Click Me](https://saweria.co/ItzKunz)
+* [Click Me](https://saweria.co/ItzKunz)
